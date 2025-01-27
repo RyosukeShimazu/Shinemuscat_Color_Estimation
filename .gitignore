@@ -1,0 +1,11 @@
+__pycache__
+.ipynb_checkpoints
+20240217_attention_map
+output
+output_cu117
+wandb
+*.out
+*.sh
+*.ipynb
+*.png
+*.pt
